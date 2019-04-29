@@ -55,6 +55,9 @@ public class MyDispatchServlet extends HttpServlet {
             }
             return;
         }
+        Map<String, String[]> params = req.getParameterMap();
+//        params.entrySet()
+//        this.handlerMapping.get(url).invoke();
         System.out.println(this.handlerMapping.get(url));
 
     }
@@ -88,7 +91,7 @@ public class MyDispatchServlet extends HttpServlet {
 
         for (Map.Entry<String, Object> entry : ioc.entrySet()) {
             Class<?> clazz = entry.getValue().getClass();
-            if (clazz.isAnnotationPresent(MyController.class)){
+            if (!clazz.isAnnotationPresent(MyController.class)){
                 continue;
             }
             String  baseUrl="";
@@ -98,12 +101,12 @@ public class MyDispatchServlet extends HttpServlet {
             }
             Method[] methods = clazz.getMethods();
             for (Method method : methods) {
-                if (!method.isAnnotationPresent(MyRequestParam.class)) {
+                if (!method.isAnnotationPresent(MyRequestMapping.class)) {
                     continue;
                 }
                 MyRequestMapping requestMapping = method.getAnnotation(MyRequestMapping.class);
                 String url = requestMapping.value();
-                 url = baseUrl + "/" + url.replaceAll("/+","/");
+                 url = (baseUrl + "/" + url).replaceAll("/+","/");
 
                 handlerMapping.put(url,method);
                 System.out.println("Mapped : "+url+","+method);
