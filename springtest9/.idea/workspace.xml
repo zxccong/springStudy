@@ -1,7 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ffb5d8e-c7c6-4e4b-903c-ad9a88537bdc" name="Default Changelist" comment="" />
+    <list default="true" id="7ffb5d8e-c7c6-4e4b-903c-ad9a88537bdc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/gupaoedu-vip-spring-2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/demo/action/MyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/demo/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/demo/service/IModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/demo/service/IQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/demo/service/impl/QueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPRequestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/aop/GPAopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/aop/GPAopProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/aop/GPAopProxyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/beans/GPBeanWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/beans/config/GPBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/beans/config/GPBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/beans/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/beans/support/GPDefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContextAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/context/support/GPAbstractApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/core/GPBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/core/GPFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPHandlerMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPModelAndView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPViewResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/resources/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/resources/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/resources/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/resources/webdefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/demo/action/MyAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/demo/service/IModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/demo/service/IQueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/demo/service/impl/ModifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/demo/service/impl/QueryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/annotation/GPAutowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/annotation/GPController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/annotation/GPRequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/annotation/GPRequestParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/annotation/GPService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/beans/GPBeanWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/beans/config/GPBeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/beans/config/GPBeanPostProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/beans/support/GPBeanDefinitionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/beans/support/GPDefaultListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/context/GPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/context/GPApplicationContextAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/context/support/GPAbstractApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/core/GPBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/core/GPFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPDispatcherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPHandlerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPHandlerMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPModelAndView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPViewResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/layouts/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0-MVC/target/classes/webdefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/action/MyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/action/PageAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/service/IModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/service/IQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/service/impl/ModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/demo/service/impl/QueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPRequestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/annotation/GPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/aop/GPAopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/aop/GPAopProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/aop/GPAopProxyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/beans/GPBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/beans/GPBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/beans/GPBeanWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/context/GPAbstractApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContextAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/context/GPDefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/context/support/GPBeanDefinitionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/core/GPBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/core/GPFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/GPHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/GPHandlerMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/GPModelAndView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/GPViewResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/java/com/gupaoedu/vip/spring/formework/webmvc/servlet/GPDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/resources/layouts/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/resources/webdefault.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-vip-spring-2.0-AOP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0/src/main/java/com/gupaoedu/vip/spring/formework/context/GPApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +155,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/mvc/action/TwoAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="120">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/service/IDemoService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -55,7 +173,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="20" selection-end-column="22" />
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,8 +195,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/framework/MyDispatchServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
@@ -91,8 +209,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/service/impl/DemoService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="96">
               <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/mvc/action/DemoAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,12 +275,18 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springtest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="22" />
+    <option name="y" value="37" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -284,7 +420,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556552523243" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gupaoedu-vip-spring-2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -361,18 +497,20 @@
       <workItem from="1556508613809" duration="4174000" />
       <workItem from="1556519503211" duration="19782000" />
       <workItem from="1556545998685" duration="5351000" />
-      <workItem from="1574383667361" duration="4910000" />
+      <workItem from="1574383667361" duration="6086000" />
+      <workItem from="1574669748772" duration="3545000" />
+      <workItem from="1574816925374" duration="4667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34217000" />
+    <option name="totallyTimeSpent" value="43605000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="22" y="37" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32603937" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -396,7 +534,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.23294243" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.47811815" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -471,13 +609,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/mvc/action/DemoAction.java">
+    <entry file="jar://E:/Program Files (x86)/JAVA/jdk1.8.0_202/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="290">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/service/IDemoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -490,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/mvc/action/TwoAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="120">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -501,6 +650,16 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -508,12 +667,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/service/impl/DemoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="96">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -521,38 +677,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/service/IDemoService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/mvc/action/DemoAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/ServletConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files (x86)/JAVA/jdk1.8.0_202/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        <state relative-caret-position="96">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/framework/MyDispatchServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="476">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#528#529#0" expanded="true" />

@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springtest9" />
-        <module name="springtest" />
+        <module name="gupaoedu-vip-spring-2.0" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gupaoedu-vip-spring-2.0" target="8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="springtest9" options="" />
+      <module name="gupaoedu-vip-spring-2.0" options="-verbose -bootclasspath &quot;D:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\jre64/lib/rt.jar&quot;" />
     </option>
   </component>
 </project>

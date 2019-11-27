@@ -86,7 +86,7 @@ public class GPApplicationContext extends GPDefaultListableBeanFactory implement
     }
 
 //    private void populateBean(String beanName, GPBeanDefinition gpBeanDefinition, GPBeanWrapper gpBeanWrapper) {
-//    }
+////    }
 //
 //    private void instantiateBean(String beanName, GPBeanDefinition gpBeanDefinition) {
 //    }
